@@ -1,0 +1,15 @@
+/home/saint/Desktop/SecondLargestNumberArray/bin/Debug/net6.0/SecondLargestNumberArray
+/home/saint/Desktop/SecondLargestNumberArray/bin/Debug/net6.0/SecondLargestNumberArray.deps.json
+/home/saint/Desktop/SecondLargestNumberArray/bin/Debug/net6.0/SecondLargestNumberArray.runtimeconfig.json
+/home/saint/Desktop/SecondLargestNumberArray/bin/Debug/net6.0/SecondLargestNumberArray.dll
+/home/saint/Desktop/SecondLargestNumberArray/bin/Debug/net6.0/SecondLargestNumberArray.pdb
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.csproj.AssemblyReference.cache
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.AssemblyInfoInputs.cache
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.AssemblyInfo.cs
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.dll
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/refint/SecondLargestNumberArray.dll
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.pdb
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/SecondLargestNumberArray.genruntimeconfig.cache
+/home/saint/Desktop/SecondLargestNumberArray/obj/Debug/net6.0/ref/SecondLargestNumberArray.dll
